@@ -97,4 +97,4 @@
 
 Email: <a href="mailto:bartek537@pm.me">bartek537@pm.me</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/bartosz-bieniek">@bartosz-bieniek</a><br/>
-Discord: <a href="https://discord.com/users/236373708350947328">bk20</a>
+Discord: <a href="https://discord.com/users/236373708350947328">bartek537</a>
