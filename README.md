@@ -10,7 +10,7 @@
 
 <ul>
     <li>
-        Forest 🌳 <a href="https://github.com/bk20dev/forest">(link)</a>
+        Forest 🌳 <a href="https://github.com/bartek537/forest">(link)</a>
         - a mobile app, which helps fight the climate change
     </li>
     <li>
@@ -18,7 +18,7 @@
         - an app for electronics hobbyists
     </li>
     <li>
-        Sokoban Game <a href="https://github.com/bk20dev/sokoban">(link)</a>
+        Sokoban Game <a href="https://github.com/team-nullptr/sokoban">(link)</a>
         - my implementation of a famous puzzle game
     </li>
 </ul>
